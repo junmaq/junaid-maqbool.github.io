@@ -87,7 +87,7 @@ author:
   avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "MS in Electrical Engineering"
   location         : "Lahore, Pakistan"
-  email            : "asif.hanif@outlook.com"
+  email            : # "asif.hanif@outlook.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
