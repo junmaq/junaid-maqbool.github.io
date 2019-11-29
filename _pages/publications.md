@@ -1,5 +1,5 @@
 ---
-#layout: posts
+layout: page
 permalink: /publications/
 title: "Publications"
 author_profile: true
