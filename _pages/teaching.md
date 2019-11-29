@@ -14,7 +14,7 @@ I was teaching assistant (TA) in following courses.;
   
 * Topics in RF Sensing [Fall 2016 [LUMS](https://lums.edu.pk)]
 
-* Topics in RF Senaing [Fall 2017 [LUMS](https://lums.edu.pk)]
+* Topics in RF Sensing [Fall 2017 [LUMS](https://lums.edu.pk)]
 
 * Electromagnetic Field Theory [Fall 2018 [ITU](https://itu.edu.pk)]
 
