@@ -5,6 +5,4 @@ header:
   image: "/images/zakim.jpg"
 ---
 
-I'm a senior data scientist who excels at data wrangling, machine learning, exploratory analysis, and data visualizations.
-
-Etc, etc, etc
+Currently, I am doing MS in Electrical Engineering from Information Technology University (ITU), Lahore with emphasis on Machine Learning and Bayesian Networks. My thesis is on modelling of Bayesian Networks with deep neural networks.
