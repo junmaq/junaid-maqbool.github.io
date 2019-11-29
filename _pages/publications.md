@@ -16,4 +16,4 @@ profile page.
   
 * [Non-Obtrusive Detection of Concealed Metallic Objects Using Commodity WiFi Radios](https://ieeexplore.ieee.org/abstract/document/8647871) <small>[**IEEE Global Communications Conference (GLOBECOM), Dec 2018**]<small>
 
-* [Adaptive Ptych: Leveraging Image Adaptive Generative Priors for Subsampled Fourier Ptychography](http://openaccess.thecvf.com/content_ICCVW_2019/html/LCI/Shamshad_Adaptive_Ptych_Leveraging_Image_Adaptive_Generative_Priors_for_Subsampled_Fourier_ICCVW_2019_paper.html)  <small>[**ICCV, Learning for Computational Imaging Workshop, 2019**]<small>
+* [Adaptive Ptych: Leveraging Image Adaptive Generative Priors for Subsampled Fourier Ptychography](http://openaccess.thecvf.com/content_ICCVW_2019/html/LCI/Shamshad_Adaptive_Ptych_Leveraging_Image_Adaptive_Generative_Priors_for_Subsampled_Fourier_ICCVW_2019_paper.html)  <small>[**ICCV, Learning for Computational Imaging Workshop, Nov 2019**]<small>
