@@ -12,7 +12,7 @@ locale                   : "en-US"
 title                    : "Asif Hanif"
 title_separator          : "-"
 name                     : "Asif Hanif"
-description              : "Data Science Portfolio"
+description              : "Graduate Student Profile"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -87,7 +87,7 @@ author:
   avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "MS in Electrical Engineering"
   location         : "Lahore, Pakistan"
-  email            :
+  email            : "asif.hanif@outlook.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "asif-hanif.github.io"
+  github           : "asif-hanif"    #My Github Profile    "https://github.com/asif-hanif"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "asif-hanif-"   #"https://www.linkedin.com/in/asif-hanif-/" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "asif-hanif-"   #My LinkedIn Profile "https://www.linkedin.com/in/asif-hanif-/"          "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
