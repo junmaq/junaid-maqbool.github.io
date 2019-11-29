@@ -1,6 +1,6 @@
 ---
 layout: posts
-permalink: /data-wrangling/
+permalink: /research/
 title: "Research"
 author_profile: true
 header:
