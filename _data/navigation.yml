@@ -6,8 +6,8 @@ main:
     url: /publications/
   - title: "Research Projects"
     url: /research/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Teaching"
+     url: /teaching/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
