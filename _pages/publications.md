@@ -2,9 +2,9 @@
 #layout: post
 permalink: /publications/
 title: "Publications"
-author_profile: true
-header:
-  image: "/images/fort point.png"
+#author_profile: true
+header:  
+image: "/images/fort point.png"
 ---
 # Publications
 Here is a list of my publications. You may want to visit my [Google
