@@ -11,6 +11,8 @@ Here is a list of my publications. You may want to visit my [Google
 Scholar](https://scholar.google.com/citations?user=6SO2wqUAAAAJ&hl=en)
 profile page.
 
+<a href='https://itu.edu.pk' target='_blank'>ITU</a>
+<a href='https://lums.edu.pk' target='_blank'>LUMS</a> 
 
 * [WiSpy: Through-wall movement sensing and person counting using commodity WiFi signals](https://ieeexplore.ieee.org/abstract/document/8589770) <small>[**IEEE SENSORS Conf. Oct 2018**]<small> 
   
