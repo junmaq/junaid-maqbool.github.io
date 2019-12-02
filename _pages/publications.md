@@ -18,3 +18,11 @@ Here is a list of my publications. You may want to visit my <a href="https://sch
   
 
 * <a href="http://openaccess.thecvf.com/content_ICCVW_2019/html/LCI/Shamshad_Adaptive_Ptych_Leveraging_Image_Adaptive_Generative_Priors_for_Subsampled_Fourier_ICCVW_2019_paper.html " target="_blank"> Adaptive Ptych: Leveraging Image Adaptive Generative Priors for Subsampled Fourier Ptychography </a>  <small>[**ICCV, Learning for Computational Imaging Workshop, Nov 2019**]<small>
+
+
+
+
+<br />
+<br />
+<br />
+<a href="/teaching/">Teaching</a>

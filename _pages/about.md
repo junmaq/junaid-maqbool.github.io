@@ -9,10 +9,18 @@ Currently, I am doing MS in Electrical Engineering from <a href="https://itu.edu
 </div>
 
 <br />
-Previously, I was research assistant at <a href="https://lums.edu.pk" target="_blank">LUMS</a> from **Oct 2015** to **Dec 2018**. My research revolved around RF sensing applications using commodity-off-the-shelf WiFi radio (<a href='https://www.intel.com/content/www/us/en/products/docs/wireless-products/ultimate-n-wifi-link-5300-brief.html' target='_blank'>Intel 5300 WiFi Card</a>).
+Previously, I was research assistant at <a href="https://lums.edu.pk" target="_blank">LUMS</a> from **Oct 2015** to **2018**. My research revolved around RF sensing applications using commodity-off-the-shelf WiFi radio (<a href='https://www.intel.com/content/www/us/en/products/docs/wireless-products/ultimate-n-wifi-link-5300-brief.html' target='_blank'>Intel 5300 WiFi Card</a>).
 
 
 <br />
-<b> Contact: </b>   <font color = "#ff7e00"> <b>asif</b> </font> DOT <font color = "#ff7e00"> <b>hanif</b> </font> AT <font color = "#ff7e00"> outlook </font> DOT <font color = "#ff7e00"> com </font>
+<b> Contact: </b>   <font color = "#ff7e00"> <b>asif</b> </font> DOT <font color = "#ff7e00"> <b>hanif</b> </font> AT <font color = "#ff7e00"> <b>outlook</b> </font> DOT <font color = "#ff7e00"> <b>com</b> </font>
 
+
+<br />
+<br />
+<a href="/research/">Research</a>
+<br />
+<a href="/publications/">Publications</a>
+<br />
+<a href="/teaching/">Teaching</a>
 
