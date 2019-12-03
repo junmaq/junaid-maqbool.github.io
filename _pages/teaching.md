@@ -18,6 +18,6 @@ I was teaching assistant (TA) in following courses;
 
 * Electromagnetic Field Theory [Fall 2018 [ITU](https://itu.edu.pk)]
 
-* Solid State Electronics [Summer 2019 [ITU](https://itu.edu.pk)]
+* Solid State Electronics [Spring 2019 [ITU](https://itu.edu.pk)]
 
-* Signals and Systems [Fall 2019 [ITU](https://itu.edu.pk)]
+* Signals and Systems [Fall 2019 [ITU](https://itu.edu.pk)]  
