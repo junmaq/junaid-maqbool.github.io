@@ -9,7 +9,7 @@ image: "/images/zakim.jpg"
 
 Here is a list of my publications. You may want to visit my <a href="https://scholar.google.com/citations?user=6SO2wqUAAAAJ&hl=en" target="_blank">Google Scholar</a> profile page.
 
-*  <a href=" https://ieeexplore.ieee.org/abstract/document/8647871" target="_blank"> Non-Obtrusive Detection of Concealed Metallic Objects Using Commodity WiFi Radios </a> <small>[**IEEE Global Communications Conference (GLOBECOM), Dec 2018**]<small> <a href="https://asif-hanif.github.io/_pages/GLOBCOMM18.pdf" target="_blank">[PDF].</a>
+*  <a href=" https://ieeexplore.ieee.org/abstract/document/8647871" target="_blank"> Non-Obtrusive Detection of Concealed Metallic Objects Using Commodity WiFi Radios </a> <small>[**IEEE Global Communications Conference (GLOBECOM), Dec 2018**]<small> <a href="https://asif-hanif.github.io/_pages/GLOBCOMM18.pdf" target="_blank">[PDF]</a>.
 
 
 
