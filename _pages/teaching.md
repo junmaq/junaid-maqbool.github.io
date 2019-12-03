@@ -7,10 +7,10 @@ image: "/images/zakim.jpg"
 
 
 
-I was teaching assistant (TA) in following courses.;
+I was teaching assistant (TA) in following courses;
 
 
-* Computer Organization and Assembly Lenaguage [Fall 2015 [LUMS](https://lums.edu.pk) ]
+* Computer Organization and Assembly Language [Fall 2015 [LUMS](https://lums.edu.pk) ]
   
 * Topics in RF Sensing [Fall 2016 [LUMS](https://lums.edu.pk)]
 
