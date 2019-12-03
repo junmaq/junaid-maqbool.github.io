@@ -9,9 +9,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Asif Hanif"
+title                    : "Junaid Maqbool"
 title_separator          : "-"
-name                     : "Asif Hanif"
+name                     : "Junaid Maqbool"
 description              : "Graduate Student Profile"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -83,8 +83,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Asif Hanif"
-  avatar           : "/images/asif.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Junaid Maqbool"
+  avatar           : "/images/junaid.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Graduate Student MS Electrical Engineering at <a href='https://itu.edu.pk' target='_blank'>ITU, Lahore</a>  "
   location         : "Lahore, Pakistan"
   email            : # "asif.hanif@outlook.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "asif-hanif"    #My Github Profile    "https://github.com/asif-hanif"
+  github           : "junmaq"    #My Github Profile    "https://github.com/asif-hanif"
   gitlab           :
   google_plus      :
   keybase          :
