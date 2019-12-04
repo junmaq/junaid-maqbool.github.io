@@ -12,27 +12,14 @@ I have worked as research assistant at <a href='https://lums.edu.pk' target='_bl
 I started experimentation with two laptops(Tx-Rx pair), each equipped with Intel 5300 WiFi card, for intrusion detection. I observed that whenever someone passes through the link between two laptops, while CSI is being captured at receiver, there are significant fluctuations in CSI data. It was my first hands-on experience with RF sensing. Later I worked on multiple applications relying on CSI and was able to publish <a href='https://asif-hanif.github.io/publications/' target='_blank'>two articles</a>. </div>
 
 <br />
-Here is a list of projects that I have worked on at <a href='https://lums.edu.pk' target='_blank'>LUMS</a>;
+After completing bachelors in Electrical Engineering from <a href='https://www.uet.edu.pk/' target='_blank'>UET Lahore</a>; in 2018. I started working as a research assistant at <a href='https://itu.edu.pk' target='_blank'>ITU</a>; 
+Here is a list of research projects that I have worked on
  
-* Preparation of sensing nodes using commercial off-the-shelf WiFi card (Intel 5300 WiFi Radio)
-* Intrusion detection using channel state information (CSI) extracted from WiFi radio
-* Through wall human motion detection by exploiting channel state information using horn antennas with WiFi radio
-* Non-invasive monitoring and estimation of breathing rate with channel state information
-* Non-obtrusive detection of concealed metallic object with WiFi radios
-* Angle-of-arrival(AoA) and time-of-flight(ToF) estimation of WiFi signal for indoor localization
-* Device-free indoor localization using joint AoA & ToF based fingerprinting
-* Indoor localization using proximity sensing using Bluetooth low energy devices
-  
-<br />
-<div style="text-align: justify">
-In 2018, I joined <a href='https://itu.edu.pk' target='_blank'>ITU, Lahore</a> for MS degree in electrical engineering. I was awarded graduate research fellowship. Having realized the potential of deep learning, I decided to pursue thesis that relies on concepts from machine learning and deep learning. During first year of MS, I worked on solving inverse problem (Fourier Ptychography) using deep learning model and have one paper that was accepted at <a href="http://openaccess.thecvf.com/content_ICCVW_2019/html/LCI/Shamshad_Adaptive_Ptych_Leveraging_Image_Adaptive_Generative_Priors_for_Subsampled_Fourier_ICCVW_2019_paper.html" target="_blank"> ICCV 2019</a>. </div>
-
-
-<br />
-<div style="text-align: justify">
-Right now, my research work is on the use of <a href="https://www.bayesserver.com/docs/introduction/bayesian-networks" target="_blank">Bayesian network</a> for root cause analysis (RCA) of faults in industrial plants. One of the main challenges in using Bayesian network is the exponential growth of distribution parameters with the number of nodes in it. We are aiming to tackle this issue by efficiently learning distribution parameters of Bayesian network using recent advances in deep neural networks.
-</div>
-
+* Causal structure learning and causal inference in bayesian networks
+  <a href="https://github.com/junmaq/RCA-Causal-Inference" target="_blank">Repository</a>
+* Normalizing flows for reconstructing images 
+* Modeling conditional densities of bayesian networks with Normalizing flow 
+  <a href="https://github.com/junmaq/Bayesian-networks-with-normalizing-flows" target="_blank">Repository</a>
 
 <br />
 <br />
