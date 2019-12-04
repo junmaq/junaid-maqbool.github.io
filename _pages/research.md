@@ -17,8 +17,6 @@ Here is a list of research projects that I have worked on
 
 <br />
 <br />
-<a href="/publications/">Publications</a>
-<br />
 <a href="/teaching/">Teaching</a>
 
 
