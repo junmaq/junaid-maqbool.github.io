@@ -7,17 +7,13 @@ image: "/images/zakim.jpg"
 
 
 
-I was teaching assistant (TA) in following courses;
+I worked as teaching assistant (TA) in following courses;
 
 
-* Computer Organization and Assembly Language [Fall 2015 [LUMS](https://lums.edu.pk) ]
+* Signals and Systems [Fall 2019 [ITU](https://itu.edu.pk) ]
   
-* Topics in RF Sensing [Fall 2016 [LUMS](https://lums.edu.pk)]
+* Onject Oriented Programming [Spring 2019 [ITU](https://itu.edu.pk)]
 
-* Topics in RF Sensing [Fall 2017 [LUMS](https://lums.edu.pk)]
+* Electronic Circuit Design [Fall 2018 [ITU](https://itu.edu.pk)]
 
-* Electromagnetic Field Theory [Fall 2018 [ITU](https://itu.edu.pk)]
-
-* Solid State Electronics [Spring 2019 [ITU](https://itu.edu.pk)]
-
-* Signals and Systems [Fall 2019 [ITU](https://itu.edu.pk)]  
+* Power Transmission, Distribution and Utilization [Fall 2018 [UET](https://www.uet.edu.pk/)]
