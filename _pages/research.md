@@ -6,7 +6,7 @@ image: "/images/zakim.jpg"
 ---
 
 <div style="text-align: justify">
-After completing bachelors in Electrical Engineering from <a href='https://www.uet.edu.pk/' target='_blank'>UET Lahore</a>; in 2018. I started working as a research assistant at <a href='https://itu.edu.pk' target='_blank'>ITU</a>; 
+After completing bachelors in Electrical Engineering from <a href='https://www.uet.edu.pk/' target='_blank'>UET Lahore</a> in 2018, I started working as a research assistant at <a href='https://itu.edu.pk' target='_blank'>ITU</a>; 
 Here is a list of research projects that I have worked on
  
  
